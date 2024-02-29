@@ -13,5 +13,6 @@ Text Preprocessing GUI is a simple Python application built using the Tkinter li
 - Python 3.x
 - Tkinter
 - ttkthemes
-- Operating System: Windows, macOS, or Linux 
+- Operating System: Windows, macOS, or Linux
+  I tried to do not use text processing libraries for better understanding the process of seaching how it work.
 ![image](https://github.com/Yoruzaki/SimpSearchEng/assets/143095129/5f93a79e-1566-4851-9758-2bac65f9271a)
